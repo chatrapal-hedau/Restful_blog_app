@@ -9,7 +9,7 @@
     "express": "^4.13.3",
     "express-sanitizer": "^1.0.1",
     "express-validator": "^6.4.1",
-    "method-override": "^2.3.5",
+    "method-override": "^2.3.10",
     "mongoose": "^5.9.10"
   },
   "devDependencies": {
